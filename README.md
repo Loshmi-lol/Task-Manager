@@ -1,3 +1,3 @@
 -> This project was made for terminal craft
 -> It is very simple to use
--> Just copy the code from .cpp file and run it in any compiler like Visual Studio that supports C++
+-> Just follow the link to the GBD compiler: https://onlinegdb.com/nkZaiAgJF
