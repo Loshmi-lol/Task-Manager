@@ -1,3 +1,3 @@
 -> This project was made for terminal craft
 -> It is very simple to use
--> Just run the .exe file
+-> Just copy the code from .cpp file and run it in any compiler
